@@ -1,7 +1,7 @@
-# 👋 Hello, I'm Nishu aka nishuR31..
+<h1 align="center">👋 Hello, I'm Nishu aka nishuR31..</h1>
 <br>
-
-<div display="flex" justify-contents="space-evenly" align-items="center">
+<br>
+<div display="flex" justify-content="space-around" align-items="center">
 <a href="https://github.com/nishuR31">
   <img align="left" src="https://komarev.com/ghpvc/?username=nishuR31&style=plastic&color=blue&label=Profile%20Views" alt="Profile Views" />
 </a>
@@ -10,8 +10,16 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&layout=compact&theme=vision-friendly-dark" alt="Most Fav IDE" />
 </a>
 </div>
-<br><br><br><br><br>
+<br><br><br><br><br><br><hr>
 <div display="flex">
+<h4>Skills and Tools:</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge"/>
+<img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
