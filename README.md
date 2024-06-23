@@ -5,32 +5,27 @@
 
 <div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">I'm currently learning HTML, CSS, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</div>
 <br>
-<br>
-<br>
+
 
 ### Profile Views
 
 <div style="background-color: transperant; display: inline-flex; flex-direction:row; justify-content:space-between; align-items:center;"> <img src="https://komarev.com/ghpvc/?username=nishur31&label=Profile%20views&color=blue&style=plastic" alt="nishur31" /> </div>
 <br>
-<br>
-<br>
+
 
 ### Trophies
 
 <div style="background-color: transperant; display: inline-flex; flex-direction:row; justify-content:space-between; align-items:center;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishur31" alt="nishur31" /></a> </div>
 <br>
-<br>
-<br>
 
 ### About Me
-<div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">
+
 * I'm currently learning **JavaScript and Python**, with a focus on building scalable and efficient applications.
 * I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
 * All of my projects are available at [https://github.com/nishuR31?tab=repositories](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
-* How to reach me: **nishanrajak7679@gmail.com** or **dreamgf691@gmail.com**. I'm always open to collaborations and discussions about tech! </div>
+* How to reach me: **nishanrajak7679@gmail.com** or **dreamgf691@gmail.com**. I'm always open to collaborations and discussions about tech! 
 <br>
-<br>
-<br>
+
 
 ### Connect with Me
 
@@ -51,8 +46,6 @@
   <div><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" width="60"/> </a></div>
 </div>
 <br>
-<br>
-<br>
 
 ### GitHub Stats
 
@@ -61,15 +54,10 @@
 <br>
 <div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishur31&show_icons=true&locale=en" alt="nishur31" /></div>
 <br>
-<br>
-<br>
 
 ### Projects
 <div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">
-I'm currently working on several projects, including:
+I'm currently working on several projects.</div>
 
-* A web scraper built with Node.js and Cheerio
-* A machine learning model using Python and scikit-learn
-* A simple chatbot using HTML, CSS, and JavaScript
-</div>
-Stay tuned for more updates! 🚀
+
+<div  style="background-color: transperant; display:inline-flex; flex-direction:row; justify-content:space-between; align-items:center;">Stay tuned for more updates! 🚀</div>
