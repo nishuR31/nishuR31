@@ -1,68 +1,35 @@
-<h1 align="center">👋 Hello, I'm Nishu aka nishuR31..</h1>
+<h1 align="center">Hi, my name is Nishan or Nishu</h1>
+<h3 align="center">A student passionate about web development and programming. I'm currently learning HTML, CSS, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I’m also expanding my knowledge in Python and has basic knowlegde in C.</h3>
 <br>
 <br>
-<div display="flex" justify-content="space-around" align-items="center">
-<a href="https://github.com/nishuR31">
-  <img align="left" src="https://komarev.com/ghpvc/?username=nishuR31&style=plastic&color=blue&label=Profile%20Views" alt="Profile Views" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishur31&label=Profile%20views&color=blue&style=plastic" alt="nishur31" /> </p>
+<br>
+<br>
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishur31" alt="nishur31" /></a> </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&layout=compact&theme=vision-friendly-dark" alt="Most Fav IDE" />
-</a>
-</div>
-<br><br><br><br><br><br><hr>
+- I’m currently learning **Javascript and python**
 
-<div display="flex" justify-content="space-between" align-items="center" flex-wrap="wrap">
-<h3>My Skills and Tools =></h3>
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge"/>
+- Has basic knowledge of **C**
 
-<img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js Badge"/>
-<img src="https://img.shields.io/badge/SQL-4169E1?style=plastic&logo=mysql&logoColor=white" alt="SQL Badge"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub Badge"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=white" alt="NPM Badge" />
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+- All of my projects are available at [https://github.com/nishuR31?tab=repositories](https://github.com/nishuR31?tab=repositories)
 
-</div>
+- How to reach me **nishanrajak7679@gmail.com** or **dreamgf691@gmail.com**
 <br><br><br>
-<hr>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
- <br><br>
-<div id="badges" display="flex" flex-wrap="wrap" justify-content="space-between" align-items="center">
-  <a href="my-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="my-instagram-URL">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
-</div>
-<br>
-<br>
-<hr>
-### :woman_technologist: About Me :
+<h3 align="left">Connect with me: Just message me.</h3>
+<p align="left">
+</p>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+<h3 align="left">Languages and Tools:</h3>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <br>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <br>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <br>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <br>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br><br>
 
-- :seedling: Exploring Technical Content Writing.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishur31&show_icons=true&locale=en&layout=compact" alt="nishur31" /></p><br>
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishur31&show_icons=true&locale=en" alt="nishur31" /></p><br>
