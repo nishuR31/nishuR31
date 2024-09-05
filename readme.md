@@ -20,15 +20,15 @@
 <div align="center" >
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black" alt="Custom Badge"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&style=social" alt="GitHub Repo Size"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?style=social" alt="GitHub Repo Size"></a>
 </div>
 
 <br>
 
 <!-- Second Row -->
 <div align="center" >
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet&style=social" alt="Closed PRs"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet&style=social" alt="Open Issues"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?style=social" alt="Closed PRs"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues/nishuR31/nishuR31?style=social" alt="Open Issues"></a>
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 <!-- Third Row -->
 <div align="center" >
   <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet&style=social" alt="Open Source Love"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&style=social" alt="Open Source Love"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
 </div>
 
