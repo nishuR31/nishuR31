@@ -23,13 +23,12 @@
   <img src="https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet" alt="Education">
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black" alt="Custom Badge"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&style=social" alt="GitHub Repo Size"></a>
 </div>
 
 <br>
-
 <!-- Second Row -->
 <div align="center" >
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&style=social" alt="GitHub Repo Size"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet&style=social" alt="Closed PRs"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet&style=social" alt="Open Issues"></a>
 </div>
