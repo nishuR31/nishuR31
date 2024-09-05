@@ -1,5 +1,6 @@
 
 
+
 #### <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
 
 <div align="center">
@@ -41,7 +42,12 @@
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
 </div>
 
-
+<br>
+<!-- Code Quality and Other Metrics -->
+<div align="center">
+  <img src="https://img.shields.io/codecov/c/github/nishuR31/nishuR31?color=blueviolet&style=social" alt="Code Coverage">
+  <img src="https://img.shields.io/librariesio/release/github/nishuR31/nishuR31?style=social" alt="Dependencies">
+</div>
 
 <br>
 <br>
