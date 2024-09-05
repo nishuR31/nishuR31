@@ -1,6 +1,4 @@
 
-
-
 #### <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
 
 <div align="center">
@@ -171,6 +169,10 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)<br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
+<!-- Contributions Heatmap -->
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nishuR31&theme=dark" alt="Wakatime">
+</div>
 
 <br>
 <br>
