@@ -71,6 +71,8 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
 
+### license:
+[![License](https://img.shields.io/badge/License-Apache_2.0-black.svg)](https://opensource.org/licenses/Apache-2.0)
 
   
 <br>
