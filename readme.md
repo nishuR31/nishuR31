@@ -20,7 +20,7 @@
 <div align="center" >
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black" alt="Custom Badge"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?style=social" alt="GitHub Repo Size"></a>
+  <img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet" alt="GitHub Repo Size">
 </div>
 
 <br>
