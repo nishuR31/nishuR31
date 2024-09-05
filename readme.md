@@ -15,27 +15,45 @@
 <br>
 <br>
 
-### <h2>Profile Data:</h2> 
-
-<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views">
-  <img src="https://visitcount.itsvg.in/api?id=nishuR31&icon=2&color=6" alt="Profile Views">
-  <img src="https://img.shields.io/badge/HELLO CODER-BROTHERS-black" alt="Custom Badge">
-  <img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet" alt="Issue Count">
-  <img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet" alt="Issue Count">
+### <h2 align="center">Profile Data:</h2> 
+<!-- First Row -->
+<div align="center" >
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black" alt="Custom Badge"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet" alt="Profile Views"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&style=social" alt="GitHub Repo Size"></a>
 </div>
-<br>
-<br>
+
 <br>
 
-### <h2>Other Information:</h2>
+<!-- Second Row -->
+<div align="center" >
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet&style=social" alt="Closed PRs"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet&style=social" alt="Open Issues"></a>
+</div>
 
-<div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet" alt="GitHub Repo Size">
+<br>
+
+<!-- Third Row -->
+<div align="center" >
   <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet" alt="Open Source Love">
-  <img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me">
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet&style=social" alt="Open Source Love"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
 </div>
+
+
+
+<br>
+<br>
+<br>
+
+### <h2> Github Contri:</h2>
+
+![GitHub Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=social)
+![Followers](https://img.shields.io/github/followers/nishuR31?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/nishuR31/nishuR31?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/nishuR31/nishuR31?style=social)
+![GitHub Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?style=social)
+
 <br>
 <br>
 <br>
@@ -71,8 +89,12 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
 
-### license:
+<br>
+<br>
+
+### License:
 [![License](https://img.shields.io/badge/License-Apache_2.0-black.svg)](https://opensource.org/licenses/Apache-2.0)
+
 
   
 <br>
@@ -130,7 +152,7 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 <br>
 <br>
 
-### GitHub Stats and  Contributions
+### GitHub Streak
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)
 
