@@ -91,7 +91,7 @@
 
 I’m always excited to connect with fellow developers, share insights, and learn from the experiences of others. Whether you have questions, want to discuss a project, or just want to chat about tech, feel free to reach out!
 <br>
-You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com). I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
+You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
 
 <br>
 <br>
