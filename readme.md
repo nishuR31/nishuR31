@@ -94,12 +94,10 @@ I’m always excited to connect with fellow developers, share insights, and lear
 You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
 
 <br>
-<br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=social&logoColor=blue)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
 
-<br>
 <br>
 
 ### License:
