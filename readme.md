@@ -162,16 +162,19 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 <br>
 <br>
 
-### GitHub Streak
+### GitHub Streak and Activity Graph
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)
+
+<br>
+
+[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=false&line=8A2BE2&hide_border=true&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
 
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)<br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
-
 
 <br>
 <br>
