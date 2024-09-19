@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### <h2 align="center">Profile Data:</h2> 
+### <h1 align="center">Profile Data:</h1> 
 <!-- First Row -->
 <div align="center" >
   <img src="https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet" alt="Education">
@@ -43,24 +43,24 @@
 <br>
 <!-- Code Quality and Other Metrics -->
 <div align="center">
-  <img src="https://img.shields.io/codecov/c/github/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black" alt="Code Coverage">
-  <img src="https://img.shields.io/librariesio/release/github/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black" alt="Dependencies">
+    <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/codecov/c/github/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black" alt="Code Coverage"></a>
+    <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/librariesio/release/github/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black" alt="Dependencies"></a>
 </div>
 
 <br>
 <br>
 <br>
 
-### <h2 align="center"> Github Contributions:</h2>
+### <h1 align="center"> Github Contributions:</h1>
 
 <div align="center">
-<img src="https://img.shields.io/github/contributors/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
-<img src="https://img.shields.io/github/followers/nishuR31?color=black&style=flat&logo=github&logoColor=black">
-<img src="https://img.shields.io/github/stars/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
-<img src="https://img.shields.io/github/forks/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
-<img src="https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
-<img src="https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
-<img src="https://img.shields.io/github/actions/workflow/status/nishuR31/nishuR31/your-workflow-file.yml?branch=main&color=black&style=flat&logo=github&logoColor=black">
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/contributors/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/followers/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/stars/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/forks/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/actions/workflow/status/nishuR31/nishuR31/your-workflow-file.yml?branch=main&color=black&style=flat&logo=github&logoColor=black"></a>
 
 </div> 
 <br>
@@ -82,8 +82,8 @@
 * I'm currently learning **JavaScript and Python**, with a focus on building scalable and efficient applications.
 * I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
 * My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
-* I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** on mobile.
-* All of my projects are available at the [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
+* I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
+* All of my projects are available at my [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
 * How to reach me: [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com) or [dreamgf691@gmail.com](mailto:dreamgf691@gmail.com). I'm always open to collaborations and discussions about tech!
 <br>
 <br>
@@ -170,7 +170,7 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 <br>
 <br>
 
-#### <h1 align="center">My GitHub Stats </h1>
+### <h1 align="center">My GitHub Stats </h1>
 
 ### Fun time
 
@@ -193,7 +193,7 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 <br>
 <br>
 
-### GitHub Streak and Activity Graph
+## <h1>GitHub Streak and Activity Graph</h1>
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)
 
@@ -213,7 +213,7 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 
 
 
-## License
+### License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
