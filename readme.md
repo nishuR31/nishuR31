@@ -3,13 +3,11 @@
 
 #### <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=blueviolet&center=true&vCenter=true&width=2000&lines=This+is+my+Github+page+and+I+thank+everyone+who+helped+me+somewhere+in+my+life+and+made+the+me+I+am+today." alt="Typing SVG">
-</div>
-
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY." alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
 <br>
  
-### A dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
+<h3> I am a dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
+</h3>
 
 <h3>I'm currently learning HTML, CSS, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</h3>
 
@@ -28,9 +26,9 @@
 <br>
 <!-- Second Row -->
 <div align="center" >
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&style=social" alt="GitHub Repo Size"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet&style=social" alt="Closed PRs"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet&style=social" alt="Open Issues"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black" alt="GitHub Repo Size"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=black&label=Issues%20Closed&style=flat&logo=github&logoColor=black" alt="Closed PRs"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/issues/nishuR31/nishuR31?color=black&label=Issues&style=flat&logo=github&logoColor=black" alt="Open Issues"></a>
 </div>
 
 <br>
@@ -38,29 +36,30 @@
 <!-- Third Row -->
 <div align="center" >
   <a href="https://github.com/sponsors/nishuR31" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-blueviolet" alt="Sponsor Me"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=blueviolet&style=social" alt="Open Source Love"></a>
+  <a href="https://github.com/nishuR31/nishuR31"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black" alt="Open Source Love"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
 </div>
 
 <br>
 <!-- Code Quality and Other Metrics -->
 <div align="center">
-  <img src="https://img.shields.io/codecov/c/github/nishuR31/nishuR31?color=blueviolet&style=social" alt="Code Coverage">
-  <img src="https://img.shields.io/librariesio/release/github/nishuR31/nishuR31?style=social" alt="Dependencies">
+  <img src="https://img.shields.io/codecov/c/github/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black" alt="Code Coverage">
+  <img src="https://img.shields.io/librariesio/release/github/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black" alt="Dependencies">
 </div>
 
 <br>
 <br>
 <br>
 
-### <h2> Github Contri:</h2>
+### <h2 align="center"> Github Contributions:</h2>
 
-![GitHub Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=social)
-![Followers](https://img.shields.io/github/followers/nishuR31?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/nishuR31/nishuR31?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/nishuR31/nishuR31?style=social)
-![GitHub Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?style=social)
-
+<div align="center">
+<img src="https://img.shields.io/github/contributors/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/followers/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/stars/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/forks/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+</div> 
 <br>
 <br>
 <br>
@@ -96,12 +95,12 @@ You can email me at [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com
 <br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=social&logoColor=blue)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=flat&logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
 
 <br>
 
 ### License:
-[![License](https://img.shields.io/badge/License-Apache_2.0-blueviolet.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-Apache_2.0-black.svg)](https://opensource.org/licenses/Apache-2.0)
 
 
   
