@@ -59,6 +59,9 @@
 <img src="https://img.shields.io/github/stars/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
 <img src="https://img.shields.io/github/forks/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
 <img src="https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black">
+<img src="https://img.shields.io/github/actions/workflow/status/nishuR31/nishuR31/your-workflow-file.yml?branch=main&color=black&style=flat&logo=github&logoColor=black">
+
 </div> 
 <br>
 <br>
