@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/contributors/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/followers/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/nishuR31?tab=followers"><img src="https://img.shields.io/github/followers/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/stars/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/forks/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
