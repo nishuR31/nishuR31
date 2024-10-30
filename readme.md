@@ -161,7 +161,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-<a href="https://termux.com/"><img src="https://img.shields.io/badge/Termux-%2300FF00.svg?style=for-the-badge&logo=termux&logoColor=black" alt="Termux"></a>
+![Termux](https://img.shields.io/badge/Termux-%23000000.svg?style=for-the-badge&logo=termux&logoColor=black")
 
 
 
