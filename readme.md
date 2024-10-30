@@ -1,7 +1,7 @@
 
 
 
-#### <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
+# <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY." alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
 <br>
@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### <h1 align="center">Profile Data:</h1> 
+# <h1 align="center">Profile Data:</h1> 
 <!-- First Row -->
 <div align="center" >
   <img src="https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet" alt="Education">
@@ -51,7 +51,7 @@
 <br>
 <br>
 
-### <h1 align="center"> Github Contributions:</h1>
+# <h1 align="center"> Github Contributions:</h1>
 
 <div align="center">
   <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/contributors/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black"></a>
