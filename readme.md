@@ -222,5 +222,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ### Projects
 
-* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR31?tab=repositories)
+* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR31?tab=projects)
 * Stay tuned for more updates! 🚀
