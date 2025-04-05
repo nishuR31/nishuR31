@@ -70,7 +70,7 @@
 ### <h1>My Trophies:</h1>
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/nishuR31/nishuR31" target="_blank" rel="https://github.com/nishuR31/nishuR31"><img src="https://github-profile-trophy.vercel.app/?username=nishuR31&theme=algolia&no-bg=true&no-frame=true" alt="nishur31" /></a>
+  <a href="https://github.com/nishuR31/nishuR31" target="_blank" rel="https://github.com/nishuR31/nishuR31"><img src="https://github-profile-trophy.vercel.app/?username=nishuR31&theme=algolia&no-bg=true&no-frame=true&column=-1" alt="nishur31" /></a>
 </div>
 <br>
 <br>
