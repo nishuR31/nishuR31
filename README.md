@@ -7,9 +7,10 @@
 </h3>
 
 <h3>I'm currently learning HTML, CSS, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</h3>
+
 <br>
 <br>
-<br>
+
 
 # <h1 align="center">Profile Data:</h1> 
 <!-- First Row -->
@@ -31,7 +32,7 @@
   ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black)
   [![Follow](https://img.shields.io/badge/-Follow%20Me-blueviolet)](https://github.com/nishuR31.com)
 </div>
-<br>
+
 <br>
 <br>
 
@@ -45,14 +46,14 @@
   [![Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
   [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
 </div> 
-<br>
+
 <br>
 <br>
 
 ### <h1>My Trophies:</h1>
   
   [![trophies](https://github-profile-trophy.vercel.app/?username=nishuR31&theme=algolia&no-bg=true&no-frame=true&column=-1)](https://github.com/nishuR31/nishuR31)
-<br>
+
 <br>
 <br>
 
@@ -63,7 +64,7 @@
 * I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
 * All of my projects are available at my [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
 * How to reach me: [nishangithub@gmail.com](mailto:nishangithub@gmail.com). I'm always open to collaborations and discussions about tech!
-<br>
+
 <br>
 <br>
 
@@ -76,12 +77,14 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
   [![Gmail](https://img.shields.io/badge/EMAIL-8A2BE2?logo=gmail)](mailto:nishangithub@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/)
   [![Github](https://img.shields.io/badge/GITHUB-181717?logo=github)](https://github.com/nishuR31)
+
 <br>
 <br>
-<br>
+
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=blue&center=true&vCenter=true&width=1500&lines=I+am+continously+learning;And+tuning+my+skill+too." alt="Typing SVG">
 </div>
+
 <br>
 <br>
 
@@ -96,9 +99,10 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+
 <br>
 <br>
-<br>
+
 ### <h2>ðŸ’» Tech Stack:</h2>
 #### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -164,7 +168,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)-->
 
-<br>
+
 <br>
 <br>
 
@@ -196,7 +200,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)<br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
 
-<br>
+
 <br>
 <br>
 
