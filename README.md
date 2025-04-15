@@ -1,6 +1,3 @@
-
-
-
 # <h1 align="center">Hi, I'm Nishan or Nishu 👋</h1>
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY." alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
@@ -84,7 +81,7 @@
 * My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
 * I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
 * All of my projects are available at my [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
-* How to reach me: [nishanrajak7679@gmail.com](mailto:nishanrajak7679@gmail.com) or [nishangithub@gmail.com](mailto:nishangithub@gmail.com). I'm always open to collaborations and discussions about tech!
+* How to reach me: [nishangithub@gmail.com](mailto:nishangithub@gmail.com). I'm always open to collaborations and discussions about tech!
 <br>
 <br>
 <br>
@@ -98,7 +95,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  I�
 <br>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=flat&logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
 
 <br>
 
