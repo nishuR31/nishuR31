@@ -94,16 +94,19 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  I‚
 
 <br>
 
-### üåê Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/) 
+<p align="center">
+  <a href="mailto:nishangithub@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-8A2BE2?logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/">
+    <img src="https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black">
+  </a>
+  <a href="https://github.com/nishuR31">
+    <img src="https://img.shields.io/badge/GITHUB-181717?logo=github">
+  </a>
+</p>
 
 <br>
-
-### License:
-[![License](https://img.shields.io/badge/License-Apache_2.0-black.svg)](https://opensource.org/licenses/Apache-2.0)
-
-
-  
 <br>
 <br>
 <div align="left">
@@ -168,6 +171,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  I‚
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
@@ -259,7 +263,11 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  I‚
 
 ### License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+This project is licensed under: <br><br>
+[![License](https://img.shields.io/badge/License-Apache%202.0-black.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE) <br><br>
+Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
+
+
 
 <br>
 <br>
