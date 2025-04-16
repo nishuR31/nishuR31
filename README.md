@@ -23,7 +23,7 @@
   
 <br>
 
-  [![Commit Activity](https://img.shields.io/github/commit-activity/y/nishuR31/nishuR31?color=blueviolet&logo=github)](https://github.com/user/nishuR31/graphs/commit-activity)
+  [![Commit Activity](https://img.shields.io/github/commit-activity/y/nishuR31/nishuR31?color=blueviolet&logo=github&logoColor=black)](https://github.com/user/nishuR31/graphs/commit-activity)
   ![Repo Size](https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black)
   ![Issues Closed](https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=black&label=Issues%20Closed&style=flat&logo=github&logoColor=black)
   ![Issues](https://img.shields.io/github/issues/nishuR31/nishuR31?color=black&label=Issues&style=flat&logo=github&logoColor=black)
