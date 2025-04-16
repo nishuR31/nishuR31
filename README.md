@@ -176,8 +176,8 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ### <h1 align="center">My GitHub Stats </h1>
 ### Fun time
-![Jokes Card](https://readme-jokes.vercel.app/api?username=nishuR31&theme=algolia&hideBorder)
-![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+[![Jokes Card](https://readme-jokes.vercel.app/api?username=nishuR31&theme=algolia&hideBorder)](https://github.com/nishuR31)
+[![Qoutes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/nishuR31)
 <br>
 
 ### Repositories and Languages
@@ -188,21 +188,21 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ### GitHub Stats and  Contributions
 [![Nishu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishuR31&theme=midnight_purple&border_radius=12&show_icons=true&include_all_commits=true)](https://github.com/nishuR31)
-![Github Repo](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&combine_all_yearly_contributions=true)
+[![Github Repo](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&combine_all_yearly_contributions=true)](https://github.com/nishuR31)
 
 <br>
 <br>
 
 ## <h1>GitHub Streak and Activity Graph</h1>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/nishuR31)
 
 <br>
 
-[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=false&line=8A2BE2&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=false&line=8A2BE2&point=ff0000)](https://github.com/nishuR31)
 <br>
 <br>
 
-![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)<br><br>
+[![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/nishuR31)<br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
 
 
