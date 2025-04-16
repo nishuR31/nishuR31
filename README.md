@@ -204,7 +204,8 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 <br>
 <br>
 
-[![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg&bg_color=00000000)](https://github.com/nishuR31)<br><br>
+[![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/nishuR31)
+<br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
 
 
