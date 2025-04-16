@@ -148,10 +148,10 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 #### **Other Technologies**
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 <!--![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST-FF665A?logo=rest&logoColor=white)
 
 #### **Design & Productivity**
