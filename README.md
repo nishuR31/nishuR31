@@ -182,20 +182,23 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ### Repositories and Languages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=nishuR31&show_owner=true&theme=midnight-purple)](https://github.com/nishuR31)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nishur31&show_icons=true&locale=en&layout=compact&theme=midnight-purple)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&layout=compact)](https://github.com/nishuR31)
 <br>
 <br>
 
 ### GitHub Stats and  Contributions
-![Github Repo](https://github-contributor-stats.vercel.app/api?username=nishuR31&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![Nishu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishuR31&theme=midnight_purple&border_radius=12&show_icons=true&include_all_commits=true)](https://github.com/nishuR31)
+![Github Repo](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&combine_all_yearly_contributions=true)
+
 <br>
 <br>
 
 ## <h1>GitHub Streak and Activity Graph</h1>
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishuR31&show_icons=true&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
 <br>
-[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=false&line=8A2BE2&hide_border=true&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Nishu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=false&line=8A2BE2&point=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 <br>
 
