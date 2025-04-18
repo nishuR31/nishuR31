@@ -214,7 +214,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ### License and Others
 
-This project is licensed under: <br><br>
+This project is licensed, secured with security policies and code of conduct under: <br><br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-black.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE) <br><br>
 
 [![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat-square&logo=github&logoColor=white)](./SECURITY.md)
