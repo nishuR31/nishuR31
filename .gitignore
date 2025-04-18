@@ -1,0 +1,70 @@
+# Node.js / React
+node_modules/
+.env
+dist/
+build/
+.cache/
+.next/
+out/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.log
+.env
+.venv/
+venv/
+pip-log.txt
+
+# VS Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# GitHub-specific
+*.swp
+*.swo
+.idea/
+*.iml
+
+# Production & Build Files
+*.tar.gz
+*.zip
+*.bak
+*.tmp
+*.log
+
+# Testing
+coverage/
+*.cover
+*.test.js
+junit.xml
+
+# Tailwind CSS (optional build cache)
+.tailwind-config.js
+tailwind.config.js
+
+# Git
+.git/
+.gitignore
+
+# Lock files
+pnpm-lock.yaml
