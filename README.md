@@ -19,8 +19,8 @@
   ![Education](https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet)
   ![Hello](https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black)
   ![Profile Views](https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet)
-  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=blueviolet&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31/commits)
-  
+ 
+ 
 <br>
 
   [![Commit Activity](https://img.shields.io/github/commit-activity/y/nishuR31/nishuR31?color=blueviolet&logo=github&logoColor=black)](https://github.com/user/nishuR31/graphs/commit-activity)
