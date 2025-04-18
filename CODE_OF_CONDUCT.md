@@ -70,5 +70,5 @@ Repeated violations will result in escalating consequences.
 This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
 For more information, see:
-[![Contributor Covenant](https://img.shields.io/badge/Contributor-Covenant%20v2.1-blueviolet?style=flat&logo=github&logoColor=white)](https://www.contributor-covenant.org)
-[![Contributor FAQ](https://img.shields.io/badge/Read%20the-FAQ-blueviolet?style=flat&logo=github&logoColor=white)](https://www.contributor-covenant.org/faq)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor-Covenant%20v2.1-blueviolet?style=flat&logo=github&logoColor=black)](https://www.contributor-covenant.org)
+[![Contributor FAQ](https://img.shields.io/badge/Read%20the-FAQ-blueviolet?style=flat&logo=github&logoColor=black)](https://www.contributor-covenant.org/faq)
