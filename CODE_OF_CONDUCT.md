@@ -1,51 +1,74 @@
-# Code of Conduct
+# 📜 Code of Conduct
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our project and community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We, as members, contributors, and leaders of this community, pledge to make participation in our project a harassment-free experience for everyone. This includes individuals of all ages, body types, disabilities, ethnicities, gender identities and expressions, levels of experience, education, socio-economic status, nationalities, personal appearances, races, religions, or sexual orientations.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+We commit to fostering an open, inclusive, welcoming, and respectful environment for all, where collaboration thrives and innovation is encouraged.
 
---- 
+---
 
 ## Our Standards
 
-Examples of behavior that contributes to a positive environment for our community include:
+### Expected Behavior:
+- Show empathy, kindness, and courtesy in all interactions.
+- Respect differing opinions, perspectives, and backgrounds.
+- Provide constructive feedback and gracefully accept criticism.
+- Take responsibility for your mistakes and apologize when appropriate.
+- Prioritize community well-being over individual ego.
+- Uphold professionalism in all community engagements.
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes
-- Focusing on what is best not just for us as individuals, but for the overall community
+### Unacceptable Behavior:
+- Use of sexualized language or imagery, sexual advances, or unwanted attention.
+- Trolling, inflammatory comments, hate speech, or personal attacks.
+- Harassment (public or private), stalking, or intimidation.
+- Publishing others' private information (e.g., addresses, phone numbers) without consent.
+- Discriminatory jokes, slurs, or behavior deemed inappropriate in a professional context.
+- Retaliation against those who report violations or assist with investigations.
 
-Examples of unacceptable behavior include:
-
-- The use of sexualized language or imagery, and sexual attention or advances of any kind
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others’ private information, such as a physical or email address, without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a professional setting
-
+---
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
+Project maintainers and community moderators are responsible for enforcing this Code of Conduct. They are committed to:
+- Investigating reported incidents promptly and fairly.
+- Maintaining confidentiality and protecting the identity of the reporter.
+- Taking appropriate corrective actions, which may include warnings, temporary bans, or permanent expulsion from the community.
 
+---
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces (e.g., GitHub repo, Discord server, live events).
+This Code of Conduct applies to all community spaces — including GitHub repositories, issue trackers, discussion forums, Discord/Slack servers, and live events. It also applies when individuals are representing the community or its projects in public settings.
 
+---
 
-## Enforcement
+## Reporting Violations
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders at [![nishangithub@gmail.com](https://img.shields.io/badge/Nishan-Github-blueviolet?logo=gmail&style=plastic&logoColor=black)](mailto:nishangithub@gmail.com). All complaints will be reviewed and investigated promptly and fairly.
+If you witness or experience any behavior that violates this Code of Conduct, please report it to the maintainers by emailing:
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+[![Report via Email](https://img.shields.io/badge/Report%20to-nishangithub@gmail.com-blueviolet?style=flat&logo=gmail&logoColor=white)](mailto:nishangithub@gmail.com)
 
+Reports will be handled confidentially, and you can expect a prompt, respectful, and fair response.
+
+---
+
+## Enforcement Guidelines
+
+Maintainers may take any action deemed appropriate for enforcement. These may include:
+- Issuing a private warning
+- Removing offending content or comments
+- Banning the user temporarily or permanently
+- Reporting serious violations to appropriate authorities
+
+Repeated violations will result in escalating consequences.
+
+---
 
 ## Attribution
 
-This Code of Conduct is adapted from the [![Contributor Covenant](https://img.shields.io/badge/Contributor-Covenant%20V%202.1-blueviolet?style=plastic&logoColor=black&logo=github)](https://www.contributor-covenant.org)
+This Code of Conduct is adapted from the [Contributor Covenant, version 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/).
 
-For answers to common questions about this code of conduct, see the [![FAQ](https://img.shields.io/badge/Contributor-Convenant-blueviolet?style=plastic&logoColor=black&logo=github)](https://www.contributor-covenant.org/faq).
+For more information, see:
+[![Contributor Covenant](https://img.shields.io/badge/Contributor-Covenant%20v2.1-blueviolet?style=flat&logo=github&logoColor=white)](https://www.contributor-covenant.org)
+[![Contributor FAQ](https://img.shields.io/badge/Read%20the-FAQ-blueviolet?style=flat&logo=github&logoColor=white)](https://www.contributor-covenant.org/faq)
