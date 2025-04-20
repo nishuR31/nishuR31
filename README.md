@@ -16,7 +16,7 @@
 <!-- First Row -->
 <div align="center" >
  
-  ![Education](https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet)
+  <!--![Education](https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet)-->
   ![Hello](https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black)
   ![Profile Views](https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet)
  
