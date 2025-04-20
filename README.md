@@ -30,7 +30,7 @@
   
 <br>
 
-  ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors)
+  ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black)
   ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black)
   [![Follow](https://img.shields.io/badge/-Follow%20Me-blueviolet)](https://github.com/nishuR31.com)
 </div>
