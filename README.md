@@ -225,9 +225,9 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 This project is licensed, secured with security policies and code of conduct under: <br><br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-black.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE) <br><br>
 
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat-square&logo=github&logoColor=white)](./SECURITY.md)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat-square&logo=github&logoColor=black)](./SECURITY.md)
 
-[![Code of Conduct](https://img.shields.io/badge/Code%20of-Conduct-blueviolet?style=flat-square&logo=github&logoColor=white)](./CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of-Conduct-blueviolet?style=flat-square&logo=github&logoColor=black)](./CODE_OF_CONDUCT.md)
 
 
 Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
