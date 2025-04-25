@@ -185,7 +185,8 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ### Repositories and Languages
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nishuR31&repo=nishuR31&show_owner=true&theme=midnight-purple&bg_color=00000000)](https://github.com/nishuR31)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&layout=compact&custom_title=My%20Top%20Languages&bg_color=00000000)](https://github.com/nishuR31)<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&layout=compact&hide_progress=true&bg_color=00000000)](https://github.com/nishuR31)
+<br>
 <br>
 
 ### GitHub Stats and  Contributions
