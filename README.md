@@ -79,6 +79,9 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
   [![Gmail](https://img.shields.io/badge/EMAIL-8A2BE2?logo=gmail)](mailto:nishangithub@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/)
   [![Github](https://img.shields.io/badge/GITHUB-181717?logo=github)](https://github.com/nishuR31)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)]( https://leetcode.com/u/nishanr_19/)
+ 
+
 
 <br>
 <br>
@@ -196,9 +199,13 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ## <h1>GitHub Streak and Activity Graph</h1>
 <br>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000)](https://github.com/nishuR31)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishuR31&show_icons=true&theme=midnight-purple&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=00000000&include_all_commits)](https://github.com/nishuR31)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nishuR31&theme=midnight-purple&hide_border=false&background=00000000)](https://git.io/streak-stats)
 
 <br>
+
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=true&line=6e40c9&point=ff00ff&bg_color=00000000)](https://github.com/nishuR31)
 <br>
