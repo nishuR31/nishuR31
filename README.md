@@ -235,7 +235,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=true&line=6e40c9&point=ff00ff&bg_color=00000000)](https://github.com/nishuR31)
 <br>
 <br>
-
+![Dark Mode](https://raw.githubusercontent.com/nishuR31/nishuR31/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 [![Contribution Snake](https://github.com/nishuR31/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/nishuR31)
 <br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
