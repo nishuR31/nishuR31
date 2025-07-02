@@ -17,22 +17,22 @@
 <div align="center" >
  
   <!--![Education](https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet)-->
-  ![Hello](https://img.shields.io/badge/HELLO%20CODER%20-BROTHERS-black)
-  ![Profile Views](https://komarev.com/ghpvc/?username=nishuR31&color=blueviolet)
+  ![Hello](https://img.shields.io/badge/HELLO-CODERS-blueviolet?logoColor=black&style=flat&logo=github)
+  ![Profile Views](https://komarev.com/ghpvc?username=nishuR31&color=blueviolet)
  
  
 <br>
 
   [![Commit Activity](https://img.shields.io/github/commit-activity/y/nishuR31/nishuR31?color=blueviolet&logo=github&logoColor=black)](https://github.com/user/nishuR31/graphs/commit-activity)
-  ![Repo Size](https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=black&label=Repo%20Size&style=flat&logo=github&logoColor=black)
-  ![Issues Closed](https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=black&label=Issues%20Closed&style=flat&logo=github&logoColor=black)
-  ![Issues](https://img.shields.io/github/issues/nishuR31/nishuR31?color=black&label=Issues&style=flat&logo=github&logoColor=black)
+  ![Repo Size](https://img.shields.io/github/repo-size/nishuR31/nishuR31?color=blueviolet&label=Repo%20Size&style=flat&logo=github&logoColor=black)
+  ![Issues Closed](https://img.shields.io/github/issues-pr-closed/nishuR31/nishuR31?color=blueviolet&label=Issues%20Closed&style=flat&logo=github&logoColor=black)
+  ![Issues](https://img.shields.io/github/issues/nishuR31/nishuR31?color=blueviolet&label=Issues&style=flat&logo=github&logoColor=black)
   
 <br>
 
-  ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black)
-  ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103&color=black&style=flat&logo=github&logoColor=black)
-  [![Follow](https://img.shields.io/badge/-Follow%20Me-blueviolet)](https://github.com/nishuR31.com)
+  ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black&style=flat)
+![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-blueviolet?style=flat&logo=opensourceinitiative&logoColor=black)
+  [![Follow](https://img.shields.io/badge/Follow-Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/nishuR31.com)
 </div>
 
 <br>
@@ -41,12 +41,12 @@
 # <h1 align="center"> Github Contributions:</h1>
 <div align="center">
   
-  [![Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  [![Followers](https://img.shields.io/github/followers/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  [![Forks](https://img.shields.io/github/forks/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  [![Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=black&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Followers](https://img.shields.io/github/followers/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31?tab=followers)
+  [![Stars](https://img.shields.io/github/stars/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Forks](https://img.shields.io/github/forks/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
 </div> 
 
 <br>
@@ -76,10 +76,10 @@ Iâ€™m always excited to connect with fellow developers, share insights, and lear
 You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ€™m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
 <br>
 <br>
-  [![Gmail](https://img.shields.io/badge/EMAIL-8A2BE2?logo=gmail)](mailto:nishangithub@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/)
-  [![Github](https://img.shields.io/badge/GITHUB-181717?logo=github)](https://github.com/nishuR31)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)]( https://leetcode.com/u/nishanr_19/)
+  [![Gmail](https://img.shields.io/badge/EMAIL-EA4335?logo=gmail&logoColor=black)](mailto:nishangithub@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/)
+  [![Github](https://img.shields.io/badge/GITHUB-000000?logo=github)](https://github.com/nishuR31)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)]( https://leetcode.com/u/nishanr_19/)
  
 
 
@@ -95,42 +95,42 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ### <h1>Languages & Tools </h1> 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=black)
 
 <br>
 <br>
 
 ### <h2> Tech Stack:</h2>
 #### **Frontend Development**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![JavaScript XML](https://img.shields.io/badge/-JavaScript%20XML-61DAFB?logo=react&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20-38B2AC?logo=tailwind-css&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript XML](https://img.shields.io/badge/JavaScript%20XML-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
 
 #### **Backend & Databases**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?logo=nodemon&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white)
-![Mongoose](https://img.shields.io/badge/-Mongoose-ff5000?logo=mongoose&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=white)
-![Dotenv](https://img.shields.io/badge/-Dotenv-ECD53F?logo=dotenv&llogoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=black)
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=black)
+![Mongoose](https://img.shields.io/badge/Mongoose-ff5000?logo=mongoose&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black)
+![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
+![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?logo=dotenv&llogoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
 <!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
@@ -138,16 +138,16 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)-->
 
 #### **Tools & Platforms**
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
-![gitignoredotio](https://img.shields.io/badge/-gitignore-204ECF?logo=gitignoredotio&logoColor=white)
-![Markdown](https://img.shields.io/badge/-markdown-000000?logo=markdown&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=black)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=black)
+![gitignoredotio](https://img.shields.io/badge/gitignore-204ECF?logo=gitignoredotio&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=black)
 
 <!--![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
@@ -162,21 +162,21 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 #### **Other Technologies**
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST-FF665A?logo=rest&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=white)
-![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=white)
-![Google Photos](https://img.shields.io/badge/Google%20Photos-4285F4?logo=googlephotos&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=black)
+![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
+![REST API](https://img.shields.io/badge/REST-FF665A?logo=rest&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=black)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=black)
+![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=black)
+![Google Photos](https://img.shields.io/badge/Google%20Photos-4285F4?logo=googlephotos&logoColor=black)
 <!--![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)--->
 
 #### **Design & Productivity**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![v0](https://img.shields.io/badge/-v0-000000?logo=v0&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=black)
+![v0](https://img.shields.io/badge/v0-000000?logo=v0&logoColor=white)
 <!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
@@ -192,10 +192,10 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)-->
 
 #### **Entertainment**
-![BGMI](https://img.shields.io/badge/-BGMI-F4B942?logo=pubg&logoColor=white)
-![Gameloft](https://img.shields.io/badge/-Gameloft-000000?logo=gameloft&logoColor=white)
-![Samsung](https://img.shields.io/badge/-Samsung-1428A0?logo=samsung&logoColor=white)
-![Samsung Pay](https://img.shields.io/badge/-Samsung%20Pay-1428A0?logo=samsungpay&logoColor=white)
+![BGMI](https://img.shields.io/badge/BGMI-F4B942?logo=pubg&logoColor=black)
+![Gameloft](https://img.shields.io/badge/Gameloft-000000?logo=gameloft&logoColor=black)
+![Samsung](https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=black)
+![Samsung Pay](https://img.shields.io/badge/Samsung%20Pay-1428A0?logo=samsungpay&logoColor=black)
 
 
 <br>
@@ -236,7 +236,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 <br>
 <br>
 
-[![Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/nishuR31)
+[![Contribution Snake](https://github.com/nishuR31/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/nishuR31)
 <br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
 
@@ -247,11 +247,11 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ### License and Others
 
 This project is licensed, secured with security policies and code of conduct under: <br><br>
-[![License](https://img.shields.io/badge/License-Apache%202.0-black.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE) <br><br>
+[![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=flat&logo=apache&logoColor=white)](LICENSE) <br><br>
 
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat-square&logo=github&logoColor=black)](./SECURITY.md)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat&logo=github&logoColor=black)](./SECURITY.md)
 
-[![Code of Conduct](https://img.shields.io/badge/Code%20of-Conduct-blueviolet?style=flat-square&logo=github&logoColor=black)](./CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of-Conduct-blueviolet?style=flat&logo=github&logoColor=black)](./CODE_OF_CONDUCT.md)
 
 
 Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
