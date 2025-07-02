@@ -32,6 +32,7 @@
 
   ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black&style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-blueviolet?style=flat&logo=opensourceinitiative&logoColor=black)
+![Last snake run](https://github.com/nishuR31/nishuR31/actions/workflows/snake.yml/badge.svg?logo=github&logoColor=black)
   [![Follow](https://img.shields.io/badge/Follow-Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/nishuR31.com)
 </div>
 
@@ -236,7 +237,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 <br>
 <br>
 
-[![Contribution Snake](https://github.com/nishuR31/snk/raw/output/github-contribution-grid-snake.svg)](https://github.com/nishuR31)
+![Dark Mode](https://raw.githubusercontent.com/nishuR31/nishuR31/output/github-contribution-grid-snake-dark.svg)
 <br><br>
 ![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
 
