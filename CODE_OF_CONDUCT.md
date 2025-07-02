@@ -47,7 +47,7 @@ This Code of Conduct applies to all community spaces — including GitHub reposi
 
 If you witness or experience any behavior that violates this Code of Conduct, please report it to the maintainers by emailing:
 
-[![Report via Email](https://img.shields.io/badge/Report%20to-nishangithub@gmail.com-blueviolet?style=flat&logo=gmail&logoColor=white)](mailto:nishangithub@gmail.com)
+[![Report via Email](https://img.shields.io/badge/Report%20to-nishangithub@gmail.com-blueviolet?style=flat&logo=gmail&logoColor=black)](mailto:nishangithub@gmail.com)
 
 Reports will be handled confidentially, and you can expect a prompt, respectful, and fair response.
 
