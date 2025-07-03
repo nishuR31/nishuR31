@@ -129,7 +129,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black)
 ![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
-![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?logo=dotenv&llogoColor=black)
+![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?logo=dotenv&logoColor=000000)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
 <!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -147,7 +147,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=black)
 ![gitignoredotio](https://img.shields.io/badge/gitignore-204ECF?logo=gitignoredotio&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=black)
+![Markdown](https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=black)
 
 <!--![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
