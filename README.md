@@ -41,13 +41,13 @@
 
 # <h1 align="center"> Github Contributions:</h1>
 <div align="center">
-  
-  [![Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+ 
   [![Followers](https://img.shields.io/github/followers/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Stars](https://img.shields.io/github/stars/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
   [![Forks](https://img.shields.io/github/forks/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  <!--[![Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
   [![Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)-->
 </div> 
 
 <br>
