@@ -18,8 +18,8 @@
  
   <!--![Education](https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet)-->
   ![Hello](https://img.shields.io/badge/HELLO-CODERS-blueviolet?logoColor=black&style=flat&logo=github)
-  ![Profile Views](https://komarev.com/ghpvc?username=nishuR31&color=blueviolet)
- 
+  ![Profile Views](https://komarev.com/ghpvc?username=nishuR31&color=blueviolet&logo=github)
+ [![Buy me tea](https://img.shields.io/badge/Buy%20Me%20Tea-FFDD00?logo=coffeescript&logoColor=black&style=flat)](https://coff.ee/dreamgf6917)
  
 <br>
 
