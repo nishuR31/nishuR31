@@ -1,6 +1,6 @@
-# <h1 align="center">Hi, I'm Nishan or Nishu ðŸ‘‹</h1>
-
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=2000&color=violet&center=false&vCenter=true&width=3000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY." alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
+# <h1 align="center" >Hi, I'm Nishan or Nishu </h1>
+<br>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=45&duration=3000&pause=2000&color=8A2BE2&center=true&delay=2000&vCenter=true&width=3000&repeat=true&background=00000000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY" alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
 <br>
  
 <h3> I am a dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
@@ -45,9 +45,9 @@
   [![Followers](https://img.shields.io/github/followers/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31?tab=followers)
   [![Stars](https://img.shields.io/github/stars/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
   [![Forks](https://img.shields.io/github/forks/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  <!--[![Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
   [![Watchers](https://img.shields.io/github/watchers/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
-  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)-->
+  [![Last Commit](https://img.shields.io/github/last-commit/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)
+  <!--[![Contributors](https://img.shields.io/github/contributors/nishuR31/nishuR31?color=blueviolet&style=flat&logo=github&logoColor=black)](https://github.com/nishuR31/nishuR31)-->
 </div> 
 
 <br>
@@ -103,8 +103,8 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=black)
+<!--![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=black)-->
 
 <br>
 <br>
@@ -129,7 +129,8 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black)
 ![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
-![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?logo=dotenv&logoColor=000000)
+![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=ECD53F)
+![Dotenvx](https://img.shields.io/badge/Dotenvx-000000?logo=dotenv&logoColor=ECD53F)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
 <!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
@@ -140,10 +141,9 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 #### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=black)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=black)
 ![gitignoredotio](https://img.shields.io/badge/gitignore-204ECF?logo=gitignoredotio&logoColor=black)
@@ -152,10 +152,11 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 <!--![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)-->
 
 #### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=black)
+<!--![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
@@ -194,7 +195,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 #### **Entertainment**
 ![BGMI](https://img.shields.io/badge/BGMI-F4B942?logo=pubg&logoColor=black)
-![Gameloft](https://img.shields.io/badge/Gameloft-000000?logo=gameloft&logoColor=black)
+![Gameloft](https://img.shields.io/badge/Gameloft-000000?logo=gameloft&logoColor=ffffff)
 ![Samsung](https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=black)
 ![Samsung Pay](https://img.shields.io/badge/Samsung%20Pay-1428A0?logo=samsungpay&logoColor=black)
 
@@ -217,7 +218,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ### GitHub Stats and  Contributions
 [![Nishu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishuR31&theme=midnight_purple&show_icons=true&include_all_commits=true&bg_color=00000000)](https://github.com/nishuR31)
 <br>
-[![Nishu's Contributions](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&bg_color=00000000&show_icons=true&repos_count=5&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nishuR31)
+[![Nishu's Contributions](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&bg_color=00000000&show_icons=true&repos_count=7&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nishuR31)
 
 <br>
 <br>
@@ -239,7 +240,7 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 ![Dark Mode](https://raw.githubusercontent.com/nishuR31/nishuR31/output/github-contribution-grid-snake-dark.svg)
 <br><br>
-![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)
+<!--![GitHub Globe](https://github.com/janarosmonaliev/github-globe.git)-->
 
 
 <br>
@@ -248,11 +249,11 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ### License and Others
 
 This project is licensed, secured with security policies and code of conduct under: <br><br>
-[![License](https://img.shields.io/badge/License-Apache%202.0-D22128?style=flat&logo=apache&logoColor=white)](LICENSE) <br><br>
+[![License](https://img.shields.io/badge/License--Apache%202.0-D22128?style=flat&logo=apache&logoColor=white)](LICENSE) <br><br>
 
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blueviolet?style=flat&logo=github&logoColor=black)](./SECURITY.md)
+[![Security Policy](https://img.shields.io/badge/Security%20Policy-blueviolet?style=flat&logo=github&logoColor=black)](SECURITY.md)
 
-[![Code of Conduct](https://img.shields.io/badge/Code%20of-Conduct-blueviolet?style=flat&logo=github&logoColor=black)](./CODE_OF_CONDUCT.md)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-blueviolet?style=flat&logo=github&logoColor=black)](CODE_OF_CONDUCT.md)
 
 
 Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
@@ -262,5 +263,14 @@ Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
 
 ### Projects
 
-* I'm currently working on projects. [Click here to check my projects.](https://github.com/nishuR31?tab=projects)
-* Stay tuned for more updates! ðŸš€
+* I'm currently working on projects and uploading repos.
+* [![Click here to check my projects.](https://img.shields.io/badge/Projects-black?logo=github&logoColour=blueviolet&style=flat)](https://github.com/nishuR31?tab=projects)
+* [![Click here to check my repos.](https://img.shields.io/badge/Repo-black?logo=github&logoColour=blueviolet&style=flat)](https://github.com/nishuR31?tab=repositories)
+  
+  <br>
+  <br>
+  <hr>
+  <br>
+
+  
+### <h1 align="center">Stay tuned for more updates!</h1>
