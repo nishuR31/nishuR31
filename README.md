@@ -258,6 +258,10 @@ This project is licensed, secured with security policies and code of conduct und
 
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-blueviolet?style=flat&logo=github&logoColor=black)](CODE_OF_CONDUCT.md)
 
+[![Blog Website](https://img.shields.io/badge/Blogs-blueviolet?style=flat&logo=github&logoColor=black)](https://nubloq.vercel.app)
+
+
+<br>
 
 Click [License](http://www.apache.org/licenses/LICENSE-2.0) to read more.
 
