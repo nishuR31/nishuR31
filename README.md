@@ -32,7 +32,9 @@
 
   ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black&style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-blueviolet?style=flat&logo=opensourceinitiative&logoColor=black)
-![Last snake run](https://github.com/nishuR31/nishuR31/actions/workflows/snake.yml/badge.svg?logo=github&logoColor=black)
+<!--![Last snake run](https://github.com/nishuR31/nishuR31/actions/workflows/snake.yml/badge.svg?logo=github&logoColor=black&backgroundColor=black&style=flat)-->
+![Last snake run](https://img.shields.io/github/actions/workflow/status/nishuR31/nishuR31/snake.yml?label=Github%20Contribution%20Snake&logo=github&logoColor=black&color=black&style=flat)
+
   [![Follow](https://img.shields.io/badge/Follow-Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/nishuR31.com)
 </div>
 
