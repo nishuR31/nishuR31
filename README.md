@@ -220,7 +220,8 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ### GitHub Stats and  Contributions
 [![Nishu's GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishuR31&theme=midnight_purple&show_icons=true&include_all_commits=true&bg_color=00000000)](https://github.com/nishuR31)
 <br>
-[![Nishu's Contributions](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&bg_color=00000000&show_icons=true&repos_count=7&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nishuR31)
+
+[![Nishu's Contributions](https://github-contributor-stats.vercel.app/api?username=nishuR31&theme=midnight-purple&bg_color=00000000&show_icons=true&border_radius=12&include_orgs=true&disable_animations=false)](https://github.com/nishuR31)
 
 <br>
 <br>
