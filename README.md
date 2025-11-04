@@ -3,10 +3,10 @@
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=50&duration=3000&pause=2000&color=8A2BE2&center=true&delay=2000&vCenter=true&width=3500&repeat=true&background=00000000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY" alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
 <br>
  
-<h3> I am a dedicated student with a strong passion for web development and programming, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
+<h3>I am a dedicated student and a developer with a strong passion for development and programming skills, driven by a desire to create innovative digital solutions and continuously improve their technical skills.
 </h3>
 
-<h3>I'm currently learning HTML, CSS, JavaScript for frontend development. On the backend, I'm diving into Node.js and databases like SQL. I'm also expanding my knowledge in Python and have basic knowledge in C.</h3>
+<h3>I'm currently learning development. I'm also expanding my knowledge in Javascript, Typescript and have basic knowledge in C, Rust, HTML, CSS, Tailwind.</h3>
 
 <br>
 <br>
@@ -63,10 +63,11 @@
 <br>
 
 ### <h1>About Me:</h1>
-* I'm currently learning **JavaScript and Python**, with a focus on building scalable and efficient applications.
-* I have basic knowledge of **C**, which has helped me understand the fundamentals of programming.
-* My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
-* I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
+* I'm currently learning **JavaScript and Typescript**, with a focus on building scalable and efficient applications.
+* I have basic knowledge of **C**, **Rust**, **Python**, which has helped me understand the fundamentals of programming.
+* ALso have basic knowledge of **MongoDB**, **MySQL**, which has helped me understand the fundamentals of DBMS.
+* My expertise extends to **HTML ,CSS and Tailwind**, where I work on crafting responsive and visually appealing web pages.
+* I actively use **Termux** for a variety of tasks, including running **Preview projests** or **practicing programming languages** on mobile.
 * All of my projects are available at my [Repository Tab](https://github.com/nishuR31?tab=repositories), where you can explore my coding journey.
 * How to reach me: [nishangithub@gmail.com](mailto:nishangithub@gmail.com). I'm always open to collaborations and discussions about tech!
 
@@ -96,110 +97,93 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 <br>
 <br>
 
-### <h1>Languages & Tools </h1> 
+### <h1> Tech Stack:</h1>
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=black)
+#### **Programming Langs :** 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black)
-![Express.js](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=black)
-<!--![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=black)-->
+![C](https://img.shields.io/badge/-C-61DAFB?logo=c&logoColor=black)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-FF7800?logo=java&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=black)
 
-<br>
-<br>
 
-### <h2> Tech Stack:</h2>
-#### **Frontend Development**
+
+#### **Frontend Dev :**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20-38B2AC?logo=tailwind-css&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![JavaScript XML](https://img.shields.io/badge/JavaScript%20XML-61DAFB?logo=react&logoColor=black)
+![TypeScript XML](https://img.shields.io/badge/TypeScript%20XML-3178C6?logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
+![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
 
-#### **Backend & Databases**
+#### **Backend Dev :**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=black)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-ff5000?logo=mongoose&logoColor=black)
+
+#### **Hosting Tools :**
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
+
+<!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Dotenvx](https://img.shields.io/badge/Dotenvx-000000?logo=dotenv&logoColor=ECD53F)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=ECD53F)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&logoColor=black)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)-->
+
+#### **Databases :**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=black)
-![Lucide](https://img.shields.io/badge/Lucide-F56565?logo=lucide&logoColor=black)
-![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=ECD53F)
-![Dotenvx](https://img.shields.io/badge/Dotenvx-000000?logo=dotenv&logoColor=ECD53F)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
-<!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)-->
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-#### **Tools & Platforms**
+#### **Tools & Platforms :**
+![REST API](https://img.shields.io/badge/REST-FF665A?logo=rest&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=black)
 ![gitignoredotio](https://img.shields.io/badge/gitignore-204ECF?logo=gitignoredotio&logoColor=black)
 ![Markdown](https://img.shields.io/badge/markdown-000000?logo=markdown&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=black)
 
-<!--![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)-->
-
-#### **DevOps & Cloud**
+#### **DevOps :**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=black)
-<!--![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)-->
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
-#### **Other Technologies**
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=black)
-![PyPi](https://img.shields.io/badge/PyPi-3775A9?logo=pypi&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
-![REST API](https://img.shields.io/badge/REST-FF665A?logo=rest&logoColor=black)
+#### **Basics :**
+![Termux](https://img.shields.io/badge/Termux-000000?logo=termux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=black)
-![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=opera&logoColor=black)
-![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=black)
-![Google Photos](https://img.shields.io/badge/Google%20Photos-4285F4?logo=googlephotos&logoColor=black)
-<!--![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)--->
 
-#### **Design & Productivity**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=black)
+#### **Design & Productivity :**
+![Rocket](https://img.shields.io/badge/Rocket-D33847?logo=rocket&logoColor=black)
 ![v0](https://img.shields.io/badge/v0-000000?logo=v0&logoColor=white)
-<!--![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white)
 
-#### **Testing & QA**
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
+#### **Testing & QA :**
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 
-#### **Mobile Development**
+#### **Mobile Development :**
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)-->
-
-#### **Entertainment**
-![BGMI](https://img.shields.io/badge/BGMI-F4B942?logo=pubg&logoColor=black)
-![Gameloft](https://img.shields.io/badge/Gameloft-000000?logo=gameloft&logoColor=ffffff)
-![Samsung](https://img.shields.io/badge/Samsung-1428A0?logo=samsung&logoColor=black)
-![Samsung Pay](https://img.shields.io/badge/Samsung%20Pay-1428A0?logo=samsungpay&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
 
 
 <br>
