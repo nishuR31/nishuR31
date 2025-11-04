@@ -104,12 +104,10 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=black)
 ![C](https://img.shields.io/badge/C-61DAFB?logo=c&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-FF7800?logo=java&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=black)
-
 
 
 #### **Frontend Dev :**
@@ -126,14 +124,15 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=nodemon&logoColor=black)
 ![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-FF665A?logo=rest&logoColor=black)
 ![Mongoose](https://img.shields.io/badge/Mongoose-ff5000?logo=mongoose&logoColor=black)
 
 #### **Hosting Tools :**
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white)
 
 <!--![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=black)
 ![Dotenvx](https://img.shields.io/badge/Dotenvx-000000?logo=dotenv&logoColor=ECD53F)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-000000?logo=dotenv&logoColor=ECD53F)
@@ -155,7 +154,6 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=000000)
 
 #### **Tools & Platforms :**
-![REST API](https://img.shields.io/badge/REST-FF665A?logo=rest&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=ffffff)
