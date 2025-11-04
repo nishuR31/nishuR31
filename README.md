@@ -17,7 +17,7 @@
 <div align="center" >
  
   <!--![Education](https://img.shields.io/badge/EDUCATION-Bachelor's%20in%20Computer%20Science%20and%20Engineering-blueviolet)-->
-  ![Hello](https://img.shields.io/badge/Hello-Programmers-blueviolet?logoColor=black&style=flat&logo=github)
+  ![Hello](https://img.shields.io/badge/Hello%20Programmers-blueviolet?logoColor=black&style=flat&logo=github)
   ![Profile Views](https://komarev.com/ghpvc?username=nishuR31&color=blueviolet&logo=github)
  [![Buy me tea](https://img.shields.io/badge/Buy%20Me%20Tea-FFDD00?logo=coffeescript&logoColor=black&style=flat)](https://coff.ee/dreamgf6917)
  
@@ -30,11 +30,11 @@
   
 <br>
 
-  ![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-blueviolet?logo=githubsponsors&logoColor=black&style=flat)
-![Open Source](https://img.shields.io/badge/Open%20Source-Initiative-blueviolet?style=flat&logo=opensourceinitiative&logoColor=black)
+  ![Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-blueviolet?logo=githubsponsors&logoColor=black&style=flat)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Initiative-blueviolet?style=flat&logo=opensourceinitiative&logoColor=black)
 <!--![Last snake run](https://github.com/nishuR31/nishuR31/actions/workflows/snake.yml/badge.svg?logo=github&logoColor=black&backgroundColor=black&style=flat)-->
 ![Last snake run](https://img.shields.io/github/actions/workflow/status/nishuR31/nishuR31/snake.yml?label=Github%20Contribution%20Snake&logo=github&logoColor=black&color=black&style=flat)
-  [![Follow](https://img.shields.io/badge/Follow-Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/nishuR31.com)
+  [![Follow](https://img.shields.io/badge/Follow%20Me-blueviolet?logo=github&logoColor=black&style=flat)](https://github.com/nishuR31.com)
 </div>
 
 <br>
