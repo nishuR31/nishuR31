@@ -1,4 +1,4 @@
-# 🔐 Security Policy
+#  Security Policy
 
 [![Security Policy](https://img.shields.io/badge/Security-Policy-blue?style=for-the-badge&logo=shield&logoColor=white)](#security-policy)
 [![Responsible Disclosure](https://img.shields.io/badge/Responsible-Disclosure-critical?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishangithub@gmail.com)
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚨 Reporting a Vulnerability
+##  Reporting a Vulnerability
 
 **Do not create public issues or pull requests for security vulnerabilities.**  
 We have a dedicated private channel to handle these with care and respect.
@@ -24,7 +24,7 @@ You will receive a response **within 48 hours**, and a fix will be rolled out **
 
 ---
 
-## 🔐 Security Best Practices We Follow
+##  Security Best Practices We Follow
 
 - Automatic dependency auditing (`npm audit`, `pip-audit`)
 - HTTPS enforced for all external calls
@@ -37,7 +37,7 @@ You will receive a response **within 48 hours**, and a fix will be rolled out **
 
 ---
 
-## ✅ Scope of Vulnerability Reports
+##  Scope of Vulnerability Reports
 
 We welcome reports related to:
 
@@ -55,7 +55,7 @@ Out of scope:
 
 ---
 
-## ✨ Credits & Recognition
+##  Credits & Recognition
 
 We appreciate your contributions to the security of this project! If you disclose a valid vulnerability, you will:
 - Be credited in the release notes (if desired)
@@ -64,7 +64,7 @@ We appreciate your contributions to the security of this project! If you disclos
 
 ---
 
-## 🧠 Additional Resources
+##  Additional Resources
 
 - [Node.js Security Checklist](https://github.com/lirantal/nodejs-security-checklist)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
