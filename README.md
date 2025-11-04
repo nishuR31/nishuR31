@@ -1,4 +1,7 @@
 # <h1 align="center" >Hi, I'm Nishan or Nishu </h1>
+
+[![nishuR31](https://dummyimage.com/1200x300/000/fff&text=nishuR31+-+Nishan+Rajak)](https://github.com/nishuR31)
+
 <br>
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=50&duration=3000&pause=2000&color=8A2BE2&center=true&delay=2000&vCenter=true&width=3500&repeat=true&background=00000000&lines=THIS+IS+MY+GITHUB+PAGE+AND+I+THANK+EVERYONE+WHO+HELPED+ME+SOMEWHERE+IN+MY+LIFE+AND+MADE+THE+WHAT+I+AM+TODAY" alt="THIS IS MY GITHUB PAGE AND I THANK EVERYONE WHO HELPED ME SOMEWHERE IN MY LIFE AND MADE THE WHAT I AM TODAY."></div>
 <br>
