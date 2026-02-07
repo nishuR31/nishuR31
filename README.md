@@ -220,8 +220,10 @@ You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  Iâ
 
 <br>
 
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&bg=true&line=6e40c9&point=ff00ff&bg_color=00000000)](https://github.com/nishuR31)
+<br>
+<br>
+<img src="https://pacman.abozanona.me?username=nishur31" />
 <br>
 <br>
 
