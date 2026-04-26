@@ -8,7 +8,7 @@
 <h1>Hi, I'm Nishan &nbsp;·&nbsp; nishuR31</h1>
 <h3>Backend Developer &nbsp;·&nbsp; Student &nbsp;·&nbsp; Builder</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1500&color=9D50FF&center=true&vCenter=true&width=700&lines=Building+scalable+systems+from+scratch;Node.js+%7C+Express+%7C+MongoDB+%7C+Redis;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1500&color=9D50FF&center=true&vCenter=true&width=1000&lines=Building+scalable+systems+from+scratch;Node.js+%7C+Fastify+%7C+Flutter+%7C+Postgres+%7C+Express+%7C+MongoDB+%7C+Redis;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 <br/>
 
