@@ -184,10 +184,10 @@ I'm always open to collaborations, discussions, and anything tech. Reach out thr
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&layout=compact&bg_color=00000000" />
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&langs_count=20&layout=compact&bg_color=00000000" />
   <source media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=buefy&layout=compact&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&layout=compact&bg_color=00000000" alt="Top Languages" />
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=buefy&langs_count=20&layout=compact&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishuR31&theme=midnight-purple&langs_count=20&layout=compact&bg_color=00000000" alt="Top Languages" />
 </picture>
 
 <br/>
