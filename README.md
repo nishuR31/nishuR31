@@ -4,12 +4,13 @@
      ============================================================ -->
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&text=Nishan%20Rajak&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=nishuR31%20%C2%B7%20Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack%20Engineering&descAlignY=62&descSize=17"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&color=E5E7EB&text=Nishan%20Rajak&fontColor=111827&fontSize=42&fontAlignY=38&desc=nishuR31%20%C2%B7%20Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack%20Engineering&descAlignY=62&descSize=17"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0D1117&text=Nishan%20Rajak&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=nishuR31%20%C2%B7%20Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack%20Engineering&descAlignY=62&descSize=17" width="100%" alt="Nishan Rajak profile header"/>
+</picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,0,0&text=Nishan%20Rajak&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=nishuR31%20%C2%B7%20Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack%20Engineering&descAlignY=62&descSize=17" width="100%" alt="Nishan Rajak profile header"/>
-
-# Hi, I'm Nishan · `nishuR31`
-
-### Backend Developer · Full-Stack Builder · Student · Systems Enthusiast
+### Backend Developer · Full-Stack Builder · Student · DevOps
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1300&color=9D50FF&center=true&vCenter=true&width=1000&lines=Building+scalable+systems+from+scratch;Backend+%7C+APIs+%7C+Databases+%7C+Queues+%7C+Realtime;React+%7C+Node.js+%7C+Fastify+%7C+PostgreSQL+%7C+Redis;DevOps+%7C+IoT+%7C+Edge+Systems+%7C+Developer+Tooling;Always+learning%2C+always+shipping" alt="Dynamic engineering tagline"/>
 
@@ -177,12 +178,12 @@ I prefer building systems from first principles so I understand the internals ra
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
+     
+<td width="25%" valign="top">
+     
 ### ghControl
-
 <a href="https://gh-ctrl.vercel.app">
-<img src="https://www.gh-ctrl.vercel.app" width="100%" alt="ghControl repository preview"/>
+<img src="https://opengraph.githubassets.com/1/nishuR31/ghControl" width="100%" alt="ghControl repository preview"/>
 </a>
 
 GitHub-focused developer tooling exploring API integration, data management, caching and background processing.
@@ -192,29 +193,22 @@ GitHub-focused developer tooling exploring API integration, data management, cac
 [Repository](https://github.com/nishuR31/ghControl)
 
 </td>
-
-<td width="50%" valign="top">
-
+<td width="25%" valign="top">
+     
 ### FoodLoop
-
 <a href="https://foodloop-ai-drab.vercel.app">
-<img src="https://foodloop-ai-drab.vercel.app" width="100%" alt="FoodLoop project preview"/>
-</a>
+<img src="https://opengraph.githubassets.com/1/nishuR31/foodloop.ai" width="100%" alt="FoodLoop project preview"/></a>
 
 Smart food monitoring and spoilage-management prototype combining IoT sensing, backend APIs and a web dashboard.
 
 **Stack:** ESP32 · Sensors · Backend API · Web Dashboard
 
-[Live Dashboard](https://github.com/nishuR31/foodloop-ai)
+[Live Dashboard](https://github.com/nishuR31/foodloop.ai)
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### BoardVault
-
 <a href="https://boardvault.vercel.app">
 <img src="https://opengraph.githubassets.com/1/nishuR31/boardVault" width="100%" alt="BoardVault repository preview"/>
 </a>
@@ -227,63 +221,43 @@ Flutter-based embedded-development knowledge app for SBCs and MCUs, backed by a 
 
 </td>
 
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
-### Scafe
+### Ranchi Synapsters
 
-<a href="https://scafeakasahu.vercel.app">
-<img src="https://scafeakasahu.vercel.app" width="100%" alt="Scafe project preview"/>
-</a>
-
-Full-stack café platform with menu, events, offers and administrative content management.
-
-**Stack:** React · Node.js · PostgreSQL · Prisma · Redis · BullMQ
-
-[Repository](https://github.com/nishuR31/scafe)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### RanchiKart
-
-<a href="https://ranchikart.vercel.app">
-<img src="https://ranchikart.vercel.app" width="100%" alt="RanchiKart repository preview"/>
-</a>
+<a href="https://ranchi-synapsters.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/ranchi-synapsters" width="100%" alt="Ranchi Synapsters repository preview"/></a>
 
 Full-stack commerce project covering product flows, backend services and payment integration.
 
-**Stack:** React/Vite · Node.js · PostgreSQL · Razorpay
+**Stack:** React/Vite · Node.js · PostgreSQL · Graph
 
-[Repository](https://github.com/nishuR31/RanchiKart)
+[Repository](https://github.com/nishuR31/ranchi-synapsters)
 
 </td>
+</tr>
+<tr>
+<td width="25%" valign="top">
 
-<td width="50%" valign="top">
+### Dev Digest
 
-### MathematicsForAll
-
-<a href="https://mathematicsForAll.vercel.app">
-<img src="https://mathematicsForAll.vercel.app" width="100%" alt="MathematicsForAll repository preview"/>
+<a href="https://dev-digestion.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/devDigest" width="100%" alt="Dev Digest repository preview"/>
 </a>
 
 Maths study platform covering lessons and youtube videos of Dr.Samir Kumar.
 
 **Stack:** React/Vite · Node.js 
 
-[Repository](https://github.com/nishuR31/mathematicsForAll)
+[Repository](https://github.com/nishuR31/devDigest)
 
 </td>
-
-<td width="50%" valign="top">
+<td width="25%" valign="top">
 
 ### Nubloq
 
 <a href="https://nubloq.vercel.app">
-<img src="https://nubloq.vercel.app" width="100%" alt="Nubloq repository preview"/>
-</a>
+<img src="https://opengraph.githubassets.com/1/nishuR31/nubloq" width="100%" alt="Nubloq repository preview"/></a>
 
 Blogging and publishing project from the broader developer-tooling and product portfolio.
 
@@ -292,6 +266,95 @@ Blogging and publishing project from the broader developer-tooling and product p
 [Repository](https://github.com/nishuR31/nubloq)
 
 </td>
+
+<td width="25%" valign="top">
+     
+### Valor
+
+<a href="https://valor-fitness.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/gymManagement" width="100%" alt="Valor repository preview"/></a>
+
+Gym management project for gym owners.
+
+**Focus:** Web · Backend · Database · Management
+
+[Repository](https://github.com/nishuR31/gymManagement)
+
+</td>
+<td width="25%" valign="top">
+     
+### Shivanshirestaurantranchi
+
+<a href="https://shivansirestaurantranchi.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/shivansirestaurantranchi" width="100%" alt="Shivansi Restaurant repository preview"/></a>
+
+Restaurant management project for owner.
+
+**Focus:** Web · Backend · Database · Management
+
+[Repository](https://github.com/nishuR31/shivansirestaurantranchi)
+
+</td>
+
+</tr>
+<tr>
+<td width="25%" valign="top">
+     
+### NASMR
+
+<a href="https://nasmr-web.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/nasmr" width="100%" alt="NASMR repository preview"/></a>
+
+Project for civic engagement and reporting platform.
+
+**Focus:** Web · Backend · Database · Management
+
+[Repository](https://github.com/nishuR31/nasmr)
+
+</td>
+
+
+<td width="25%" valign="top">
+     
+### Nmoh
+
+<a href="https://nmoh.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/nmoh" width="100%" alt="Nmoh repository preview"/></a>
+
+Project for personal project commamd engagement and reporting platform.
+
+**Focus:** Web · Backend · Database · Management
+
+[Repository](https://github.com/nishuR31/nasmr)          
+     </td>
+
+<td width="25%" valign="top">
+     
+### Github Recap
+
+<a href="https://nishur31.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/githubRecap" width="100%" alt="githubRecap repository preview"/></a>
+
+Project for my github recap  engagement and reporting platform.
+
+**Focus:** Web · Backend · Database · Management
+
+[Repository](https://github.com/nishuR31/githubRecap)          
+     </td>
+<td width="25%" valign="top">
+     
+### Memory Web
+
+<a href="https://memory-web2.vercel.app">
+<img src="https://opengraph.githubassets.com/1/nishuR31/Memory-Web2" width="100%" alt="Memory web repository preview"/></a>
+
+Project for tuger graph rag hackathon platform.
+
+**Focus:** Web · Backend · Database · Management
+
+[Repository](https://github.com/nishuR31/Memory-Web2)          
+     </td>
+
 </tr>
 </table>
 
@@ -301,7 +364,7 @@ Blogging and publishing project from the broader developer-tooling and product p
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **TuneGTR**
 
@@ -311,8 +374,7 @@ Digital guitar tuner focused on DSP, pitch detection, YIN-based recognition and 
 
 </td>
 
-<tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **Devclip Hub**
 
@@ -322,19 +384,19 @@ Developer-oriented project exploring useful development resources and tooling.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
-**Baksy**
+**Ionicity**
 
-Web project from the broader application and experimentation portfolio.
+Web project trying ionic capacitor application and experimentation.
 
-[Repository](https://github.com/nishuR31/baksy)
+[Repository](https://github.com/nishuR31/ionicity)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **Lunarity**
 
@@ -344,13 +406,23 @@ Web application / product experiment from the project portfolio.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 **Pretties**
 
 CLI/tooling project exploring developer productivity and command-line workflows.
 
 [Repository](https://github.com/nishuR31/pretties)
+
+</td>
+
+<td width="30%" valign="top">
+
+**Beat**
+
+Music beat wquilizer.
+
+[Repository](https://github.com/nishuR31/beat)
 
 </td>
 </tr>
@@ -582,8 +654,11 @@ This profile repository is licensed under Apache 2.0 and includes repository sec
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient&customColorList=6,12,20" width="100%" alt="Footer wave"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=000000"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=E5E7EB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0D1117" width="100%" alt="Footer wave"/>
+</picture>
 <sub>Backend systems · Full-stack engineering · DevOps · IoT · DSA · Open source</sub>
 
 </div>
