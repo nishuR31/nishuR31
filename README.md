@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,12,20&text=Nishan%20Rajak&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=nishuR31%20%C2%B7%20Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack%20Engineering&descAlignY=62&descSize=17" width="100%" alt="Nishan Rajak profile header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=0,0,0&text=Nishan%20Rajak&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=nishuR31%20%C2%B7%20Backend%20%C2%B7%20Systems%20%C2%B7%20Full-Stack%20Engineering&descAlignY=62&descSize=17" width="100%" alt="Nishan Rajak profile header"/>
 
 # Hi, I'm Nishan · `nishuR31`
 
@@ -56,7 +56,7 @@ I prefer building systems from first principles so I understand the internals ra
 <br/><br/>
 
 <a href="https://nishudevportfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"  alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -181,8 +181,8 @@ I prefer building systems from first principles so I understand the internals ra
 
 ### ghControl
 
-<a href="https://github.com/nishuR31/ghControl">
-<img src="https://opengraph.githubassets.com/1/nishuR31/ghControl" width="100%" alt="ghControl repository preview"/>
+<a href="https://gh-ctrl.vercel.app">
+<img src="https://www.gh-ctrl.vercel.app" width="100%" alt="ghControl repository preview"/>
 </a>
 
 GitHub-focused developer tooling exploring API integration, data management, caching and background processing.
@@ -197,15 +197,15 @@ GitHub-focused developer tooling exploring API integration, data management, cac
 
 ### FoodLoop
 
-<a href="https://foodloop-ai-drab.vercel.app/dashboard/admin">
-<img src="https://opengraph.githubassets.com/1/nishuR31/foodloop-ai" width="100%" alt="FoodLoop project preview"/>
+<a href="https://foodloop-ai-drab.vercel.app">
+<img src="https://foodloop-ai-drab.vercel.app" width="100%" alt="FoodLoop project preview"/>
 </a>
 
 Smart food monitoring and spoilage-management prototype combining IoT sensing, backend APIs and a web dashboard.
 
 **Stack:** ESP32 · Sensors · Backend API · Web Dashboard
 
-[Live Dashboard](https://foodloop-ai-drab.vercel.app/dashboard/admin)
+[Live Dashboard](https://github.com/nishuR31/foodloop-ai)
 
 </td>
 </tr>
@@ -215,7 +215,7 @@ Smart food monitoring and spoilage-management prototype combining IoT sensing, b
 
 ### BoardVault
 
-<a href="https://github.com/nishuR31/boardVault">
+<a href="https://boardvault.vercel.app">
 <img src="https://opengraph.githubassets.com/1/nishuR31/boardVault" width="100%" alt="BoardVault repository preview"/>
 </a>
 
@@ -231,8 +231,8 @@ Flutter-based embedded-development knowledge app for SBCs and MCUs, backed by a 
 
 ### Scafe
 
-<a href="https://github.com/nishuR31/scafe">
-<img src="https://nishudevportfolio.vercel.app/projects/project-8.webp" width="100%" alt="Scafe project preview"/>
+<a href="https://scafeakasahu.vercel.app">
+<img src="https://scafeakasahu.vercel.app" width="100%" alt="Scafe project preview"/>
 </a>
 
 Full-stack café platform with menu, events, offers and administrative content management.
@@ -249,8 +249,8 @@ Full-stack café platform with menu, events, offers and administrative content m
 
 ### RanchiKart
 
-<a href="https://github.com/nishuR31/RanchiKart">
-<img src="https://opengraph.githubassets.com/1/nishuR31/RanchiKart" width="100%" alt="RanchiKart repository preview"/>
+<a href="https://ranchikart.vercel.app">
+<img src="https://ranchikart.vercel.app" width="100%" alt="RanchiKart repository preview"/>
 </a>
 
 Full-stack commerce project covering product flows, backend services and payment integration.
@@ -263,17 +263,33 @@ Full-stack commerce project covering product flows, backend services and payment
 
 <td width="50%" valign="top">
 
+### MathematicsForAll
+
+<a href="https://mathematicsForAll.vercel.app">
+<img src="https://mathematicsForAll.vercel.app" width="100%" alt="MathematicsForAll repository preview"/>
+</a>
+
+Maths study platform covering lessons and youtube videos of Dr.Samir Kumar.
+
+**Stack:** React/Vite · Node.js 
+
+[Repository](https://github.com/nishuR31/mathematicsForAll)
+
+</td>
+
+<td width="50%" valign="top">
+
 ### Nubloq
 
 <a href="https://nubloq.vercel.app">
-<img src="https://opengraph.githubassets.com/1/nishuR31/nubloq" width="100%" alt="Nubloq repository preview"/>
+<img src="https://nubloq.vercel.app" width="100%" alt="Nubloq repository preview"/>
 </a>
 
 Blogging and publishing project from the broader developer-tooling and product portfolio.
 
 **Focus:** Web · Backend · Database
 
-[Live Project](https://nubloq.vercel.app)
+[Repository](https://github.com/nishuR31/nubloq)
 
 </td>
 </tr>
@@ -294,17 +310,6 @@ Digital guitar tuner focused on DSP, pitch detection, YIN-based recognition and 
 [Repository](https://github.com/nishuR31/TuneGTR)
 
 </td>
-
-<td width="50%" valign="top">
-
-**MathematicsForAll**
-
-Educational mathematics project with an emphasis on accessible learning resources.
-
-[Repository](https://github.com/nishuR31/mathematicsForAll)
-
-</td>
-</tr>
 
 <tr>
 <td width="50%" valign="top">
@@ -369,22 +374,7 @@ CLI/tooling project exploring developer productivity and command-line workflows.
 
 </div>
 
-### Problem-Solving Focus
 
-- Arrays and strings
-- Hash maps and sets
-- Two pointers
-- Sliding window
-- Recursion
-- Binary search
-- XOR and bit manipulation
-- In-place array manipulation
-- Complexity analysis
-- Data structures and algorithmic problem solving
-
-The LeetCode card is intentionally dynamic, so solved counts, activity and the heatmap do not need to be manually maintained in the README.
-
----
 
 ## GitHub Analytics
 
@@ -571,6 +561,14 @@ This profile repository is licensed under Apache 2.0 and includes repository sec
 <a href="https://github.com/Aman-kumar2006">
 <img src="https://avatars.githubusercontent.com/Aman-kumar2006?v=4" width="90" alt="Aman-kumar2006"/><br/>
 <b>Aman-kumar2006</b><br/>
+<sub>Contributor</sub>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/AdityaKumarr77">
+<img src="https://avatars.githubusercontent.com/AdityaKumarr77?v=4" width="90" alt="AdityaKumarr77"/><br/>
+<b>AdityaKumarr77</b><br/>
 <sub>Contributor</sub>
 </a>
 </td>
