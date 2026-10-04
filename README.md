@@ -52,7 +52,7 @@ I prefer building systems from first principles so I understand the internals ra
 </td>
 <td width="38%" align="center" valign="middle">
 
-<img src="https://avatars.githubusercontent.com/nishuR31?v=4" width="220" alt="Nishan Rajak"/>
+<img src="nishur31.png" width="220" alt="Nishan Rajak"/>
 
 <br/><br/>
 
