@@ -560,7 +560,8 @@ Writing · Experiments · Development
 <div align="center">
 
 <a href="https://github.com/nishuR31">
-<img src="https://github-profile-trophy.vercel.app/?username=nishuR31&theme=algolia&no-bg=true&no-frame=true&column=-1&margin-w=6" width="100%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=nishuR31&theme=dracula&no-bg=true&no-frame=true&column=-1&margin-w=6" alt="GitHub trophies"/>
+
 </a>
 
 </div>
