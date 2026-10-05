@@ -28,6 +28,7 @@
 ## About
 
 <div align="center">
+     <img src="nishur31.svg" width="100%" alt="Nishan Rajak"/>
 <table>
 <tr>
 <td width="62%" valign="top">
@@ -51,8 +52,6 @@ I prefer building systems from first principles so I understand the internals ra
 
 </td>
 <td width="38%" align="center" valign="middle">
-
-<img src="nishur31.svg" width="220" alt="Nishan Rajak"/>
 
 <br/><br/>
 
