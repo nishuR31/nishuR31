@@ -492,12 +492,6 @@ Music beat wquilizer.
 
 <div align="center">
 
-<a href="https://github.com/nishuR31">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishuR31&theme=github-compact&line=8A2BE2&point=ffffff&area=true&hide_border=true&bg_color=00000000" width="100%" alt="GitHub activity graph"/>
-</a>
-
-<br/>
-
 <p align="center">
   <img src="https://circuit-g8ty.onrender.com/api/nishur31.svg" alt="Nishan's Commit Circuit" width="100%" />
 </p>
